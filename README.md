@@ -1,4 +1,7 @@
-<img src="./Twilight.jpg" alt="drawing" width="600" class="center">
+<p align="center">
+  <img src="./Twilight.jpg"  alt="drawing" width="600"/>
+</p>
+
 
 # Hey there!
 I am passionate Data Scientist, currently working as a Lead Teacher of Data Analytics bootcamp <a href="https://www.ironhack.com/en/paris" style="cursor:pointer;color:inherit;word-wrap:break-word;text-decoration:inherit" class="notion-link-token notion-enable-hover"><span style="border-bottom:0.05em solid;border-color:rgba(55,53,47,0.4);opacity:0.7">@Ironhack Paris</span></a>. 
@@ -38,12 +41,3 @@ As a socially oriented Data Scientist, I find it important to participate in MLS
 # Contacts
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/240px-LinkedIn_logo_initials.png" height="40em" align="center" alt="Follow Eldiias on LinkedIn" title="Follow Eldiias on LinkedIn"/>](https://linkedin.com/in/edzhamankulov)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/200px-Gmail_icon_%282020%29.svg.png" height="40em" align="center" alt="Write an email to Eldiias" title="Write an email to Eldiias"/>](mailto:eldiyas@gmail.com)
-
-<style>
-.center {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;
-}
-</style>
