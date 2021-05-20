@@ -34,7 +34,8 @@ As a socially oriented Data Scientist, I find it important to participate in MLS
 </div>
 </div>
 </div>
-[Visitor Count](https://profile-counter.glitch.me/eldiias/count.svg)
+
+![Visitor Count](https://profile-counter.glitch.me/eldiias/count.svg)
 
 
 
