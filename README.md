@@ -24,7 +24,7 @@ As a socially oriented Data Scientist, I find it important to participate in MLS
 <img src="https://github-readme-stats.vercel.app/api?username=eldiias&amp;count_private=true&amp;show_icons=True&amp;theme=radical" style="display: block; object-fit: cover; border-radius: 1px; width: 100%; pointer-events: auto;">
 </div>
 </div>
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=eldiias" style="display: block; object-fit: cover; border-radius: 1px; width: 100%; pointer-events: auto;">
+
 </div>
 </div>
 <div style="position: relative; width: 46px; flex-grow: 0; flex-shrink: 0; transition: opacity 200ms ease-out 0s; opacity: 0;">
@@ -34,7 +34,7 @@ As a socially oriented Data Scientist, I find it important to participate in MLS
 </div>
 </div>
 </div>
-
+[Visitor Count](https://profile-counter.glitch.me/eldiias/count.svg)
 
 
 
