@@ -19,7 +19,7 @@ As a socially oriented Data Scientist, I find it important to participate in MLS
 <div style="padding-top: 12px; padding-bottom: 12px; flex-grow: 0; flex-shrink: 0; width: calc((100% - 46px) * 0.5);">
 <div data-block-id="12fe6a77-431a-47e8-af94-8ec4d7011a75" class="notion-selectable notion-column-block" style="display: flex; flex-direction: column;">
 <div style="display: flex;"><div class="notion-cursor-default" style="position: relative; overflow: hidden; flex-grow: 1;">
-<img width="100px" src="https://github-readme-stats.vercel.app/api?username=eldiias&amp;count_private=true&amp;show_icons=True&amp;theme=radical" style="display: block; object-fit: cover; border-radius: 1px; width: 100%; pointer-events: auto;">
+<img width="100px" src="https://github-readme-stats.vercel.app/api?username=eldiias&amp;count_private=true&amp;show_icons=True&amp;theme=radical" style="display: block; object-fit: cover; border-radius: 1px; width: 50%; pointer-events: auto;">
 </div>
 </div>
 
@@ -28,7 +28,7 @@ As a socially oriented Data Scientist, I find it important to participate in MLS
 <div style="position: relative; width: 46px; flex-grow: 0; flex-shrink: 0; transition: opacity 200ms ease-out 0s; opacity: 0;">
 </div>
 <div style="padding-top: 12px; padding-bottom: 12px; flex-grow: 0; flex-shrink: 0; width: calc((100% - 46px) * 0.5);">
-<img width="100px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eldiias&amp;langs_count=12&amp;layout=compact" style="display: block; object-fit: cover; border-radius: 1px; width: 100%; pointer-events: auto;">
+<img width="100px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eldiias&amp;langs_count=12&amp;layout=compact" style="display: block; object-fit: cover; border-radius: 1px; width: 50%; pointer-events: auto;">
 </div>
 </div>
 </div>
