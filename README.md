@@ -4,9 +4,9 @@
 
 
 # Hey there!
-I am passionate Data Scientist, interested in influential projects. Currently seeking for a full time position in the following areas of interest – Computer Vision, Recommendation Systems, Time Series Analysis.
+I am passionate Data Scientist, interested in influential projects. 
 
-I have a passion for learning and sharing my knowledge with others a public as possible. Hence, I am always ready to present my area of study in more details, just ping me on <a href="https://www.linkedin.com/in/edzhamankulov/" style="cursor:pointer;color:inherit;word-wrap:break-word;text-decoration:inherit"><span style="border-bottom:0.05em solid;border-color:rgba(55,53,47,0.4);opacity:0.7">LinkedIn</span></a>.
+I have a passion for learning and sharing my knowledge with others. Hence, I am always ready to present my area of study in more details, just ping me on <a href="https://www.linkedin.com/in/edzhamankulov/" style="cursor:pointer;color:inherit;word-wrap:break-word;text-decoration:inherit"><span style="border-bottom:0.05em solid;border-color:rgba(55,53,47,0.4);opacity:0.7">LinkedIn</span></a>.
 # Hall of Fame
 <a href="https://github.com/Eldiias/HallOfFame" style="cursor:pointer;color:inherit;word-wrap:break-word;text-decoration:inherit" class="notion-link-token notion-enable-hover"><span style="border-bottom:0.05em solid;border-color:rgba(55,53,47,0.4);opacity:0.7">In this repository</span></a> you can find a database of students that I had an honor to teach. They are split into 2 blocks according to their latest GitHub update. If you are looking for some juniors, please be welcome to take a look on their repositories and get in touch with them if you like their projects.
 # Demo Notebooks
